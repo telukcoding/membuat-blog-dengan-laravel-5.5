@@ -1,4 +1,4 @@
-@extends('layouts.main')
+@extends('includes.head')
 @section('title', 'Welcome')
 
 @section('content')
